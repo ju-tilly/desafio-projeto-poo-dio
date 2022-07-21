@@ -8,13 +8,10 @@ desenvolvedoras Java.
 - Encapsulamento
 - Herança
 - Polimorfismo
---------------------------------------------------------
 
 ## **Requisitos usados para este projeto:**
 
-✔️ Java JDK 17
-✔️ IDE para desenvolvimento Java - Intellij
-✔️ Git
-✔️ Conta GitHub
-
--------------------------------------------------------
+✔️ Java JDK 17  
+✔️ IDE para desenvolvimento Java - Intellij  
+✔️ Git  
+✔️ Conta GitHub  
